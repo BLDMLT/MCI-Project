@@ -1,1 +1,1 @@
-# Team36
+# MCI-Project for MCI course
