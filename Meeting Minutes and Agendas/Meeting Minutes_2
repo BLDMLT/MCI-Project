@@ -1,0 +1,18 @@
+Minutes of the Second Client Meeting
+
+Team 36
+
+Wednesday 1 April 2020
+
+Chair: Junzhe Huang
+Secretary: Sicheng Xin
+Members: Qianyang Tang
+Apologies: No
+
+The plan of the next week:
+
+We have been added as auditing students on Web and Database Computing for both 2019 and 2020. The NodeJS and express resources in there should be able to get our started.
+We also have a teacher access to Ian's personal MyUni Sandbox. There we can add & modify assignments, and we should be able to use the API to do so.
+The documentation on the API here https://canvas.instructure.com/doc/api/ 
+There may be NodeJS packages that make accessing the parts of the API that you need easier.
+Focus on getting a basic express server going that can modify the grades of an assignment.

@@ -1,0 +1,19 @@
+Minutes of the Sixth Client Meeting
+
+Team 36
+
+Thursday 28 May 2020
+
+Chair: Junzhe Huang
+Secretary: Sicheng Xin
+Members: Qianyang Tang
+Apologies: No
+
+The plan of the next week:
+
+Successfully complete the remote connection with the virtual machine and parse the student score file in the specified directory of it.
+
+According to Myuni's sandbox course, the data of the student's score file in the virtual machine (mainly about the student number) is 
+reasonably modified, and several sets of test data are designed to test the code. 
+
+Before the end of next week, complete the code compilation and program testing of the process of obtaining student scores from the virtual machine.

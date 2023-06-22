@@ -1,0 +1,23 @@
+The sixth MCI group Project client meeting will be held by Zoom on Thursday 14 May 2020
+
+Agenda
+Chair: Junzhe Huang
+Secretary: Sicheng Xin
+Members: Qianyang Tang
+
+1 Apologies
+None.
+
+2 Presentation
+The program can successfully get grades from MyUni and upload the new grade back.
+We are trying to build the web submission part for file transmit.
+
+3 Requirements Elicitation
+The fully function program should be finished by the end of May.
+
+4 Other Issues
+Because we use the different version of Node.js, some libraries are not support anymore.
+One of our team members lived in an area with a poor internet connection, which affected the communication with the team. 
+The good news is that our community is getting safer, we can meet with each other soon.
+
+Note: The next meeting will be hold at 4pm on every Thursday via Zoom.

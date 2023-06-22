@@ -1,0 +1,23 @@
+Agenda
+Chair: Junzhe Huang
+Secretary: Sicheng Xin
+Members: Qianyang Tang
+
+1 Apologies
+None.
+
+2 Presentation
+Connect to the virtual machine remotely based on its IP address and obtain data from the virtual machine.
+Learn how to change files in the virtual machine, and make reasonable changes to the score data in order to test the program.
+
+3 Requirements Elicitation
+Since we chose the virtual machine as the external resource platform, 
+the information about the registered users of the virtual machine also had to be used as the necessary input key information.
+In actual applications, these should be built into the program rather than requiring user input.
+
+4 Other Issues
+During the process of obtaining the IP address of the virtual machine, 
+some of our team members failed to obtain the IP address of IPv4 as expected but the IP address of IPv6.
+This problem prevented them from successfully connecting to the virtual machine.
+
+Note: The next meeting will be hold at 4pm on every Thursday via Zoom.

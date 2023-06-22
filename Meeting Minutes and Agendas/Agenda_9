@@ -1,0 +1,22 @@
+Agenda
+Chair: Junzhe Huang
+Secretary: Sicheng Xin
+Members: Qianyang Tang
+
+1 Apologies
+None.
+
+2 Presentation
+Regarding the design of the user interface, we discussed whether it is necessary to add some additional functions.
+Each part has been completed and passed the test. Use callback functions to integrate the parts together.
+
+3 Requirements Elicitation
+Because we use the "express" template,it can create multiple sub-pages by using get function, 
+and we will use the relevant code in the HTML file to connect them if neccessary.
+It will benefit the expansion of our web page in the future.
+
+4 Other Issues
+The other issues are mainly about the discussion of extended functions.
+For example, whether to add a history review function or whether to add a data timing synchronization function.
+
+Note: The next meeting will be hold at 4pm on every Thursday via Zoom.

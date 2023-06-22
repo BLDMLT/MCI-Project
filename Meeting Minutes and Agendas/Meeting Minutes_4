@@ -1,0 +1,28 @@
+Minutes of the Fourth Client Meeting
+
+Team 36
+
+Thursday 30 April 2020
+
+Chair: Junzhe Huang
+Secretary: Sicheng Xin
+Members: Qianyang Tang
+Apologies: No
+
+The plan of the next week:
+
+Create the API Key by Token to access the system.
+
+Uploading one student's grade at same time.
+
+Only one student's grade upload to system at this moment.
+
+Learn the Web Submission System.
+
+Familiar with the file access on the Web Submission System.
+
+Learn sync API: https://csv.js.org/parse/api/sync/
+
+Learn JSON format: https://www.w3schools.com/jsref/jsref_obj_json.asp
+
+Learn file system interaction: https://csv.js.org/parse/recipies/file_interaction/

@@ -1,0 +1,20 @@
+Minutes of the Sixth Client Meeting
+
+Team 36
+
+Thursday 14 May 2020
+
+Chair: Junzhe Huang
+Secretary: Sicheng Xin
+Members: Qianyang Tang
+Apologies: No
+
+The plan of the next week:
+
+Fix the problem of different Node.js version.
+
+Improve web page and try to use CSV-parser instead of papa parser.
+
+Stop use the 'Cur-request' module, Looking for the alternative.
+
+Add the login module in the program to connect with our application.

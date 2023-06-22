@@ -1,0 +1,54 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Team 36 Project</title>
+    </head>
+    <h1>Welcome to MCI project Team 36's Project</h1>
+    <h2>A Node.JS web application for synchronizing student grades from external sources to MyUni</h2>
+    <h3>vesion 1.1</h3>
+    <hr>
+	<script>
+	function check(){
+	  if(document.getElementById("host").value==""){
+	    alert("Please input the host!");
+	  }
+	  if(document.getElementById("username").value==""){
+	    alert("Please input the username!");
+	  }
+	  if(document.getElementById("password").value==""){
+	    alert("Please input the password!");
+	  }
+	  if(document.getElementById("path").value==""){
+	    alert("Please input the path!");
+	  }
+	  if(document.getElementById("cs_id").value==""){
+	    alert("Please input the cs_id!");
+	  }
+	  if(document.getElementById("as_id").value==""){
+	    alert("Please input the as_id!");
+	  }
+	  if(document.getElementById("token").value==""){
+	    alert("Please input the token!");
+	  }
+	}
+	</script>
+
+<body>
+
+<form action="http://127.0.0.1:8081/process_response" method="POST">
+ 
+<p>Host: <input id="host" type="text" name="host" ></p>
+<p>Username: <input id="username" type="text" name="username" ></p>
+<p>Password: <input id="password" type="text" name="password" ></p>
+<p>Path: <input id="path" type="text" name="path" ></p>
+<p>Course ID: <input id="cs_id" type="text" name="cs_id" >  </p>
+<p>Assignment ID: <input id="as_id" type="text" name="as_id" ></p>
+<p>Token: <input id="token" type="text" name="token" ></p>
+<input name="submit" type="submit" value="submit" onclick="check()">
+<input type="reset" name="reset" value="reset">
+
+
+</form>
+
+</body>
+</html>

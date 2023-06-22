@@ -1,0 +1,23 @@
+The sixth MCI group Project client meeting will be held by Zoom on Thursday 14 May 2020
+
+Agenda
+Chair: Junzhe Huang
+Secretary: Sicheng Xin
+Members: Qianyang Tang
+
+1 Apologies
+None.
+
+2 Presentation
+Solve the asynchronous problem of Nodejs, and use the programming logic to integrate the previously completed methods together.
+The HTML file cannot load the Node.js program as expected, and the solution needs to be discussed.
+
+3 Requirements Elicitation
+At this stage, we have not checked the validity of the user's input, which is very unfriendly to the user's experience.
+Follow-up will add a feedback based on user input, the purpose is to tell the user whether the program runs successfully.
+
+4 Other Issues
+Understand the file system. Since there is no API and administrator rights for the Web submission platform, 
+we are likely to use virtual machines as our external resources.
+
+Note: The next meeting will be hold at 4pm on every Thursday via Zoom.
